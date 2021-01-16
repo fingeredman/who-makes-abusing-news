@@ -14,6 +14,10 @@
 - 언론사가 온라인 뉴스에 대한 유저의 관심을 높이기 위해 유사한 제목이나 내용의 기사를 반복적으로 게제하는 행위
 
 ---
+## Abusing Patterns...?
+> ![abusing_pattern](./data/abusing_pattern.png)
+
+---
 ## Update History
 > 2020.03.08. 기본 구성 입력    
 
