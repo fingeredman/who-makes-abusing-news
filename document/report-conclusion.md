@@ -4,7 +4,7 @@
 ## Contents
 - [Introduction](./report-introduction.md#introduction)
 - [Backgrounds](./report-backgrounds.md#backgrounds)
-- [Method: Analysis Procedure](./report-method.md#method:-analysis-procedure)
+- [Method: Analysis Procedure](./report-method.md#method-analysis-procedure)
 - [Results](./report-results.md#results)
 - [Implications](./report-implications.md#implications)
 - Conclusion

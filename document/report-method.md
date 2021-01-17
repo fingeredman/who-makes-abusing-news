@@ -7,7 +7,7 @@
 - Method: Analysis Procedure
 - [Results](./report-results.md#results)
 - [Implications](./report-implications.md#implications)
-- [Conclusion](./report-introduction.md#implication)
+- [Conclusion](./report-conclusion.md#conclusion)
 
 ---
 ## Method: Analysis Procedure
