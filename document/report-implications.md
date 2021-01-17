@@ -12,7 +12,10 @@
 ---
 ## Implications
 
-### Practical News
+### Practical Implications
+- TBU
+
+### Theoretical Implications
 - TBU
 
 <br><br>
