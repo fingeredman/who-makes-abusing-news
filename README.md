@@ -23,10 +23,10 @@
 ### Contents
 - [Introduction](./document/report-introduction.md#introduction)
 - [Backgrounds](./document/report-backgrounds.md#backgrounds)
-- [Method: Analysis Procedure](./document/report-method.md#method:-analysis-procedure)
+- [Method: Analysis Procedure](./document/report-method.md#method-analysis-procedure)
 - [Results](./document/report-results.md#results)
 - [Implications](./document/report-implications.md#implications)
-- [Conclusion](./document/report-introduction.md#implication)
+- [Conclusion](./document/report-conclusion.md#conclusion)
 
 ---
 ## Update History
